@@ -1,0 +1,15 @@
+{
+ "test_f1_macro": 0.5381524107536518,
+ "test_auc": 0.5789979929394478,
+ "val_f1_macro": 0.5411389849575906,
+ "val_auc": 0.5773320245539433,
+ "test_f1_macro_tuned": 0.5371427131845331,
+ "threshold_tuned": 0.26249998807907104,
+ "best_epoch": 33,
+ "epochs_run": 43,
+ "train_seconds": 511.4225182533264,
+ "subgraph_homophily": 0.8343169861319986,
+ "n_test": 8023,
+ "fp_model": "30f48d361f85d8167d2122ca0f091e086ba11867e572c6597af4f18ac68e5f21",
+ "fp_preds": "137172d469509f8b0774be6e4bff146238db033240ee9baad03eec62cc69eb9c"
+}
