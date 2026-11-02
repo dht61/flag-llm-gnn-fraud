@@ -1,0 +1,9 @@
+data/
+logs/
+__pycache__/
+*.pyc
+*.pt
+*.npy
+*.npz
+results/test*/
+results/det_check/
